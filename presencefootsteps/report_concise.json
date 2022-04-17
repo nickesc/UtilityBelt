@@ -1,0 +1,1725 @@
+{
+    "blocks": {
+        "minecraft:lantern": {
+            "class": "",
+            "sound": "block.lantern.step",
+            "association": "UNASSIGNED"
+        },
+        "minecraft:soul_lantern": {
+            "class": "",
+            "sound": "block.lantern.step",
+            "association": "UNASSIGNED"
+        },
+        "cyti:trashcan_item": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "cyti:trashcan_fluid": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "cyti:trashcan_energy": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:thatch": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:rocky_dirt": {
+            "class": "",
+            "sound": "block.gravel.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:stone_pillar": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:chain": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:bar_panel": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:lattice": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:chandelier": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:soul_chandelier": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:bonfire": {
+            "class": "",
+            "sound": "block.wool.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:soul_bonfire": {
+            "class": "",
+            "sound": "block.wool.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:brazier": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:soul_brazier": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:spruce_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:jungle_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:crimson_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:warped_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:dark_oak_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:birch_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:acacia_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:oak_beam": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:spruce_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:jungle_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:crimson_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:warped_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:dark_oak_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:birch_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:acacia_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:oak_palisade": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:spruce_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:jungle_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:crimson_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:warped_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:dark_oak_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:birch_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:acacia_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:oak_support": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:spruce_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:jungle_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:crimson_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:warped_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:dark_oak_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:birch_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:acacia_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "decorative_blocks:oak_seat": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:bauxite_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:cinnabar_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:galena_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lead_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:peridot_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:pyrite_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:ruby_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sapphire_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sheldonite_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:silver_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sodalite_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sphalerite_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tin_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungsten_ore": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_bauxite_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_galena_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_iridium_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_lead_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_peridot_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_ruby_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_sapphire_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_sheldonite_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_silver_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_sodalite_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_tin_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deepslate_tungsten_ore": {
+            "class": "",
+            "sound": "block.deepslate.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_alloy_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_alloy_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_alloy_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_alloy_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:aluminum_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:aluminum_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:aluminum_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:aluminum_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:brass_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:brass_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:brass_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:brass_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:bronze_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:bronze_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:bronze_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:bronze_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:chrome_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:chrome_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:chrome_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:chrome_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:electrum_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:electrum_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:electrum_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:electrum_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:hot_tungstensteel_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:hot_tungstensteel_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:hot_tungstensteel_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:hot_tungstensteel_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:invar_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:invar_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:invar_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:invar_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_stone_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_stone_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_stone_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_stone_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_tungstensteel_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_tungstensteel_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_tungstensteel_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iridium_reinforced_tungstensteel_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lead_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lead_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lead_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lead_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nickel_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nickel_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nickel_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nickel_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:peridot_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:peridot_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:peridot_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:peridot_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:platinum_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:platinum_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:platinum_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:platinum_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_iridium_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_iridium_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_iridium_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_iridium_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_lead_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_lead_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_lead_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_lead_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_silver_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_silver_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_silver_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_silver_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tin_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tin_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tin_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tin_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tungsten_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tungsten_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tungsten_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:raw_tungsten_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:red_garnet_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:red_garnet_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:red_garnet_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:red_garnet_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:refined_iron_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:refined_iron_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:refined_iron_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:refined_iron_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:ruby_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:ruby_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:ruby_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:ruby_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sapphire_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sapphire_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sapphire_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sapphire_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:silver_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:silver_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:silver_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:silver_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:steel_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:steel_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:steel_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:steel_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tin_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tin_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tin_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tin_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:titanium_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:titanium_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:titanium_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:titanium_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungsten_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungsten_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungsten_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungsten_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungstensteel_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungstensteel_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungstensteel_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tungstensteel_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:yellow_garnet_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:yellow_garnet_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:yellow_garnet_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:yellow_garnet_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:zinc_storage_block": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:zinc_storage_block_stairs": {
+            "class": ",EXTENDS_STAIRS",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:zinc_storage_block_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:zinc_storage_block_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:basic_machine_frame": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:basic_machine_casing": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_machine_frame": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_machine_casing": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_machine_frame": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_machine_casing": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:basic_solar_panel": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_solar_panel": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_solar_panel": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:ultimate_solar_panel": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:quantum_solar_panel": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:creative_solar_panel": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:crude_storage_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:basic_storage_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_storage_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_storage_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:quantum_storage_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:creative_storage_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:basic_tank_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:advanced_tank_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_tank_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:quantum_tank_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:creative_tank_unit": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:copper_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tin_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:gold_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:hv_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:glassfiber_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:insulated_copper_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:insulated_gold_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:insulated_hv_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:superconductor_cable": {
+            "class": ",EXTENDS_CONTAINER",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:alloy_smelter": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:assembly_machine": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:auto_crafting_table": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:chemical_reactor": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:compressor": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:distillation_tower": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:extractor": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:resin_basin": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:fluid_replicator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:grinder": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:electric_furnace": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:implosion_compressor": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_blast_furnace": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_centrifuge": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_electrolyzer": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_grinder": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:industrial_sawmill": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iron_alloy_furnace": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:iron_furnace": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:matter_fabricator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:recycler": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:rolling_machine": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:scrapboxinator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:vacuum_freezer": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:solid_canning_machine": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:wire_mill": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:greenhouse_controller": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:diesel_generator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:dragon_egg_syphon": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:fusion_coil": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:fusion_control_computer": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:gas_turbine": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lightning_rod": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:plasma_generator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:semi_fluid_generator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:solid_fuel_generator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:thermal_generator": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:water_mill": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:wind_mill": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:drain": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:adjustable_su": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:charge_o_mat": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:interdimensional_su": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lapotronic_su": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lsu_storage": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:low_voltage_su": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:medium_voltage_su": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:high_voltage_su": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lv_transformer": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:mv_transformer": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:hv_transformer": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:ev_transformer": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:alarm": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:chunk_loader": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lamp_incandescent": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lamp_led": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:player_detector": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:computer_cube": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nuke": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:refined_iron_fence": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:reinforced_glass": {
+            "class": ",EXTENDS_TRANSPARENT",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:rubber_log": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:rubber_log_stripped": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:rubber_wood": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:stripped_rubber_wood": {
+            "class": "",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:rubber_plank_slab": {
+            "class": ",EXTENDS_SLAB",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:rubber_fence_gate": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:rubber_button": {
+            "class": ",EXTENDS_PILLAR",
+            "sound": "block.wood.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:potted_rubber_sapling": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:copper_wall": {
+            "class": "",
+            "sound": "block.metal.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:beryllium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:calcium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:calcium_carbonate": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:carbon": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:carbon_fiber": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:chlorite": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:compressed_air": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:deuterium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:diesel": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:electrolyzed_water": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:glyceryl": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:helium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:helium3": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:heliumplasma": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:hydrogen": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:lithium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:mercury": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:methane": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nitro_carbon": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nitro_diesel": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nitrocoal_fuel": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nitrofuel": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nitrogen": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:nitrogen_dioxide": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:oil": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:potassium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:silicon": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sodium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sodium_sulfide": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sodium_persulfate": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sulfur": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:sulfuric_acid": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:tritium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:wolframium": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "techreborn:biofuel": {
+            "class": ",EXTENDS_LIQUID",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "universal_graves:grave": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "universal_graves:visual_grave": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        },
+        "universal_graves:temp_block": {
+            "class": "",
+            "sound": "block.stone.step",
+            "association": "UNASSIGNED"
+        }
+    },
+    "unmapped_entities": []
+}
