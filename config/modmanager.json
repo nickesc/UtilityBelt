@@ -1,0 +1,9 @@
+{
+    "defaultProvider": "modrinth",
+    "updateChannel": "ALL",
+    "hidden": [
+        "fabric",
+        "earthbounds",
+        "ae2"
+    ]
+}

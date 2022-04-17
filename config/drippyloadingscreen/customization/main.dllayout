@@ -1,0 +1,154 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  autoscale_baseheight = 2160
+  renderorder = foreground
+  autoscale_basewidth = 3840
+  randommode = false
+  scale = 4
+  randomonlyfirsttime = false
+  backgroundcolor = #232326
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  visible = false
+  x = -1
+  action = editprogressbar
+  y = -47
+  barcolor = #EF5252
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  textcolor = #FFF9F2
+  action = addtext
+  actionid = d80d7312-4f21-48ce-bcb8-6303e0a6852d1650094371442
+  y = 47
+  scale = 2.5
+  alignment = left
+  value = N. Escobar Media
+}
+
+customization {
+  orientation = mid-centered
+  shape = rectangle
+  color = #EF5252
+  x = 0
+  width = 416
+  action = addshape
+  actionid = b456211f-d646-485d-b427-13e1a766138c1650094979335
+  y = 112
+  height = 12
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  textcolor = #FFF9F2
+  action = addtext
+  actionid = 30c45a34-67ba-4c42-a492-afc777ea58b71650094713025
+  y = 24
+  scale = 1.5
+  alignment = left
+  value = an
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  textcolor = #FFF9F2
+  action = addtext
+  actionid = cfe7e60f-01ae-4ab5-9883-14183dffd0a91650094757711
+  y = 73
+  scale = 1.5
+  alignment = left
+  value = production
+}
+
+customization {
+  orientation = mid-centered
+  x = 0
+  width = 414
+  actionid = 9ef362a9-76cb-425b-ad29-b34c0538980a1650094815118
+  y = 112
+  action = addcustomprogressbar
+  height = 10
+  direction = right
+  barcolor = #EF5252
+  backgroundcolor = #232326
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  textcolor = #FFF9F2
+  action = addtext
+  actionid = e394c5ea-8396-44ad-bda7-3aa76c7dc5811650095192165
+  y = -34
+  scale = 1.0
+  alignment = left
+  value = Minecraft %mcversion%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  textcolor = #FFF9F2
+  action = addtext
+  actionid = 3d3542b5-a363-49b2-8621-8dfb1b709ba71650095285391
+  y = -8
+  scale = 1.0
+  alignment = left
+  value = Fabric %version:fabric%, %totalmods% mods loaded
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  textcolor = #FFF9F2
+  action = addtext
+  actionid = 37bb5fcd-c2f9-4938-857d-f1a4574362881650095365806
+  y = -47
+  scale = 1.0
+  alignment = left
+  value = %usedram% MB / %maxram% MB
+}
+
+customization {
+  path = config/UtilityBelt/nescobar-square-opaque.png
+  orientation = top-left
+  x = 436
+  width = 130
+  action = addtexture
+  actionid = adcefab5-d7f3-43bd-b696-81a65470e5f91650141884446
+  y = 140
+  height = 130
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  textcolor = #FFF9F2
+  action = addtext
+  actionid = 1e34b10f-9440-4ed0-a357-4028968e55a71650141913019
+  y = -21
+  scale = 1.0
+  alignment = left
+  value = %randomtext:config/UtilityBelt/name.txt:0% v%randomtext:config/UtilityBelt/version.txt:0% by %randomtext:config/UtilityBelt/author.txt:0%
+}
+

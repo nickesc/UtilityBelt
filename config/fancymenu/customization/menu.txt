@@ -1,0 +1,274 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = bludhaven
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = element
+  orientation_element = vanillabtn:400358
+  x = 0
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=400310%
+  width = 306
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttonlabel
+  value = Enter Bludhaven
+}
+
+customization {
+  identifier = %id=400310%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\boxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = element
+  orientation_element = vanillabtn:400394
+  x = 0
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=400358%
+  width = 306
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400358%
+  action = setbuttonlabel
+  value = Mod Menu
+}
+
+customization {
+  identifier = %id=400358%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\boxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=802990%
+  orientation = bottom-right
+  x = -200
+  action = movebutton
+  y = -17
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = element
+  orientation_element = vanillabtn:376394
+  x = 26
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=604394%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=604394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\acchov.png
+  backgroundnormal = config\UtilityBelt\accnorm.png
+}
+
+customization {
+  identifier = %id=605310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=605310%
+  vr:showif:serveronline = true
+  vr:value:serveronline = mycoolserver.com
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = element
+  orientation_element = vanillabtn:400358
+  x = 0
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=400286%
+  width = 306
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400286%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\boxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = element
+  orientation_element = vanillabtn:400310
+  x = -100
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = bottom-left
+  x = 15
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=400394%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = element
+  orientation_element = vanillabtn:400394
+  x = 156
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=502394%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = element
+  orientation_element = vanillabtn:502394
+  x = 156
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=376394%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=376394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\langhov.png
+  backgroundnormal = config\UtilityBelt\langnorm.png
+}
+
+customization {
+  orientation = element
+  shadow = false
+  orientation_element = vanillabtn:802990
+  x = 112
+  actionid = 7cad15b4-756b-49e1-9bcf-b0189416be361650176092886
+  action = addtext
+  y = -13
+  scale = 1.0
+  alignment = left
+  value = %local:utilitybelt.modpack.name% v%local:utilitybelt.modpack.version%
+}
+
+customization {
+  path = config/UtilityBelt/utility-belt-trans.png
+  orientation = element
+  orientation_element = 7cad15b4-756b-49e1-9bcf-b0189416be361650176092886
+  x = -17
+  width = 13
+  action = addtexture
+  actionid = 85f5bca3-4344-4ffb-999a-44111f7a8d521650176296281
+  y = -3
+  height = 13
+}
+
+customization {
+  path = config/UtilityBelt/header.png
+  orientation = top-left
+  x = 16
+  width = 218
+  action = addtexture
+  actionid = ff83702f-5764-4e70-a448-53458454409e1650180770644
+  y = 18
+  height = 101
+}
+

@@ -1,0 +1,68 @@
+{
+    "ModSettings": {
+        "always_include_hotbar": true,
+        "enable_profiles": false,
+        "enable_lock_slots": false,
+        "enable_lock_slots_per_server": false,
+        "restock_hotbar": true,
+        "sort_at_cursor": true,
+        "stop_at_screen_close": true,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "enable_profiles_announcement": false,
+        "enable_inventory_editor_button": false,
+        "show_continuous_crafting_checkbox": false,
+        "continuous_crafting_checkbox_value": "UNCHECKED",
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "lock_slots_disable_user_interaction": true,
+        "lock_slots_switch_config_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "lock_slots_config_key": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "locked_slots_foreground_style": 1
+    },
+    "AutoRefillSettings": {
+        "disable_for_drop_item": true,
+        "ignore_locked_slots": false,
+        "tool_damage_threshold": 5,
+        "threshold_unit": "PERCENTAGE",
+        "allow_break_for_non_enchanted": true,
+        "audio_durability_notification": false,
+        "number_of_notifications": 1,
+        "audio_replace_success_notification": false,
+        "audio_replace_failed_notification": false,
+        "type_visual_replace_failed_notification": "HOTBAR"
+    },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "reload_custom_configs": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "dump_item_nbt_to_chat": {
+            "main": {
+                "keys": "ENTER"
+            }
+        }
+    }
+}
