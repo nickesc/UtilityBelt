@@ -1,9 +1,9 @@
 [tweaks]
 autoClimbLadder = false
 doNotUseLastTorch = false
-hideOffhandItem = true
+hideOffhandItem = false
 hideOwnParticleEffects = false
-hideShieldUnlessHoldingWeapon = true
+hideShieldUnlessHoldingWeapon = false
 noOffhandTorchAtAll = false
 noOffhandTorchWithBlock = true
 noOffhandTorchWithFood = true

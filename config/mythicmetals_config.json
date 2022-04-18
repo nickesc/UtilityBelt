@@ -1,5 +1,5 @@
 {
-  "enableDusts": false,
+  "enableDusts": true,
   "enableNuggets": true,
   "enableAnvils": true,
   "adamantite": {

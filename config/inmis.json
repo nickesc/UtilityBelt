@@ -72,7 +72,7 @@
   "playSound": true,
   //If true, players will not be able to open Backpacks by right-clicking. This will require the player to open backpacks as a Trinket or Armor slot item with the bound key.
   "requireArmorTrinketToOpen": false,
-  "allowBackpacksInChestplate": true,
+  "allowBackpacksInChestplate": false,
   //If this value is set to false, players will not be able to equip or open backpacks in a Trinkets slot.
   "enableTrinketCompatibility": true,
   //If true, players will not be able to take backpacks out of armor/trinket slots if the backpack is not empty.

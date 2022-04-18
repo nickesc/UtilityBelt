@@ -1,5 +1,5 @@
 {
-  "allow_removing_curses": false,
+  "allow_removing_curses": true,
   "show_enchantment_cost": true,
   "dedicated_server_options": {
     "alternative_cost_display_enabled": false

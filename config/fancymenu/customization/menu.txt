@@ -55,7 +55,7 @@ customization {
   orientation_element = vanillabtn:400394
   x = 0
   action = movebutton
-  y = -26
+  y = -25
 }
 
 customization {
@@ -113,18 +113,6 @@ customization {
 }
 
 customization {
-  identifier = %id=605310%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=605310%
-  vr:showif:serveronline = true
-  vr:value:serveronline = mycoolserver.com
-  action = vanilla_button_visibility_requirements
-}
-
-customization {
   identifier = %id=400286%
   orientation = element
   orientation_element = vanillabtn:400358
@@ -166,9 +154,9 @@ customization {
 customization {
   identifier = %id=400394%
   orientation = bottom-left
-  x = 15
+  x = 17
   action = movebutton
-  y = -37
+  y = -56
 }
 
 customization {
@@ -216,9 +204,9 @@ customization {
   identifier = %id=376394%
   orientation = element
   orientation_element = vanillabtn:502394
-  x = 156
+  x = -156
   action = movebutton
-  y = 0
+  y = 25
 }
 
 customization {
@@ -263,12 +251,13 @@ customization {
 
 customization {
   path = config/UtilityBelt/header.png
-  orientation = top-left
-  x = 16
-  width = 218
+  orientation = element
+  orientation_element = vanillabtn:400310
+  x = -2
+  width = 309
   action = addtexture
   actionid = ff83702f-5764-4e70-a448-53458454409e1650180770644
-  y = 18
-  height = 101
+  y = -182
+  height = 143
 }
 

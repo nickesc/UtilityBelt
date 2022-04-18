@@ -1,4 +1,4 @@
 ##[general]
 
 I:screenshotdelay = '10';
-I:panoramaresolution = '2048';
+I:panoramaresolution = '1024';

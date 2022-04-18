@@ -4,7 +4,7 @@
   "_c2": "Toggles Polymer's networking for client",
   "enableNetworkSync": true,
   "_c3": "Enables alternative armor (texture) renderer. Always enabled with Iris/Canvas installed",
-  "useAlternativeArmorRenderer": false,
+  "useAlternativeArmorRenderer": true,
   "_c4": "Toggles visibility of F3 debug info",
   "displayF3Info": true
 }

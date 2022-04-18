@@ -80,5 +80,5 @@
   "morbusSpreadStartingDay": 100,
   //Enables the usage of the Maledictio Glyph and Heart of Morbus.
   //If you plan to use this mod on a public server, disable this to avoid griefing.
-  "canUseMorbusCorruptionItems": true
+  "canUseMorbusCorruptionItems": false
 }

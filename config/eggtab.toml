@@ -5,4 +5,4 @@ creativeGroup = true
 musicGroup = true
 booksGroup = true
 foodGroup = false
-removeEmptyGroups = false
+removeEmptyGroups = true

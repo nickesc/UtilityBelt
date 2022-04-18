@@ -4,7 +4,7 @@
 	/* Should the Bookshelf Structure Processor run? (Only
 	       recommended in Vanilla)
 	*/
-	"doBookshelfProcessor": true,
+	"doBookshelfProcessor": false,
 	/* Should Stronghold Libraries have Spell Books spawn? (Does
 	       nothing if YUNG's Better Strongholds is loaded)
 	*/

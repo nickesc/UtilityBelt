@@ -130,12 +130,12 @@ customization {
 
 customization {
   path = config/UtilityBelt/nescobar-square-opaque.png
-  orientation = top-left
-  x = 436
+  orientation = mid-centered
+  x = -1
   width = 130
   action = addtexture
   actionid = adcefab5-d7f3-43bd-b696-81a65470e5f91650141884446
-  y = 140
+  y = -70
   height = 130
 }
 

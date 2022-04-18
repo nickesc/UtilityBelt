@@ -11,10 +11,7 @@
 		// How many extra mobs are allowed close to the conjurer per ignorance charm
 		"ignorance_multiplier": 2,
 		// Which mob types you shouldn't be able to create a conjuring focus for
-		"conjurer_blacklist": [
-			"minecraft:wither",
-			"minecraft:ender_dragon"
-		]
+		"conjurer_blacklist": []
 	},
 	"tools_config": {
 		// What percentage (additive) of the original damage to apply to each entity in the aoe per scope level

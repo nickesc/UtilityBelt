@@ -20,7 +20,7 @@ graveSpawnHeight = 2
 lastResort = "DROP_ITEMS"
 putXpInGrave = true
 defaultXpDrop = false
-xpDropPercent = 50
+xpDropPercent = 75
 tellDeathPos = true
 
 [graveSettings.graveRobbing]
@@ -66,7 +66,7 @@ soulboundEnchant = true
 deathSightEnchant = false
 
 [utilitySettings.scrollItem]
-scrollType = "DISABLED"
+scrollType = "INFO_SCROLL"
 retrieveOnRespawn = true
 [commandToggles]
 retrieveGrave = true
