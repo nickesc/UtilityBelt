@@ -1,6 +1,19 @@
 # UtilityBelt
 ###### by N. Escobar
 
+> ## INSTALL INSTRUCTIONS:
+> Navigate to your Minecraft data folder in terminal and enter these commands:
+> ```bash
+> 
+> mv mods old_mods
+> mv config old_config
+> git clone https://github.com/nickesc/UtilityBelt
+> mv UtilityBelt/mods mods
+> mv UtilityBelt/config config
+> cp UtilityBelt/local/ftbchunks/client-config.snbt local/ftbchunks/client-config.snbt
+>
+>```
+
 ## Fixes
 https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix/files
 https://www.curseforge.com/minecraft/mc-mods/fallflyinglib/files
