@@ -39,6 +39,11 @@ customization {
 
 customization {
   identifier = %id=398294%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=398294%
   orientation = bottom-left
   x = 6
   action = movebutton
@@ -90,6 +95,11 @@ customization {
   action = setbuttontexture
   backgroundhovered = config\UtilityBelt\smallboxhov.png
   backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=504294%
+  action = hidebutton
 }
 
 customization {
@@ -246,5 +256,22 @@ customization {
   action = setbuttontexture
   backgroundhovered = config\UtilityBelt\smallboxhov.png
   backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  label = Bugs and Feedback
+  loopbackgroundanimations = true
+  x = 10
+  width = 150
+  actionid = 2199c8b0-0c50-461d-80cf-1f20fc0805421650279198827
+  action = addbutton
+  y = -32
+  backgroundnormal = config\UtilityBelt\menubox.png
+  value = https://github.com/nickesc/UtilityBelt/issues
+  height = 20
 }
 

@@ -4,12 +4,12 @@
 B:stopworldmusicwhencustomizable = 'false';
 [If menu background sounds added by FancyMenu should be played when a world is loaded.]
 B:playbackgroundsoundsinworld = 'false';
-B:forcefullscreen = 'false';
+B:forcefullscreen = 'true';
 [If menu background sounds added by FancyMenu should be played or not.]
 B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
 B:enablehotkeys = 'true';
-B:playmenumusic = 'true';
+B:playmenumusic = 'false';
 B:showdebugwarnings = 'true';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
 I:defaultguiscale = '-1';
@@ -18,7 +18,7 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'false';
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 
 
 ##[mainmenu]
