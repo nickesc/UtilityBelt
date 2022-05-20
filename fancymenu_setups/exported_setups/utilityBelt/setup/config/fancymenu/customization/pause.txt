@@ -1,0 +1,277 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=398246%
+  orientation = mid-centered
+  x = -153
+  action = movebutton
+  y = -91
+}
+
+customization {
+  identifier = %id=398246%
+  width = 306
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398246%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\boxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=398294%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=398294%
+  orientation = bottom-left
+  x = 6
+  action = movebutton
+  y = -27
+}
+
+customization {
+  identifier = %id=398294%
+  width = 60
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398294%
+  action = setbuttonlabel
+  value = Feedback
+}
+
+customization {
+  identifier = %id=398294%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=398342%
+  orientation = element
+  orientation_element = vanillabtn:398318
+  x = 0
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=398342%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398342%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=504294%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504294%
+  orientation = element
+  orientation_element = vanillabtn:398294
+  x = 0
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=504294%
+  width = 60
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504294%
+  action = setbuttonlabel
+  value = Bugs
+}
+
+customization {
+  identifier = %id=504294%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=504342%
+  orientation = element
+  orientation_element = vanillabtn:398342
+  x = 156
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=504342%
+  width = 151
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504342%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=398270%
+  orientation = element
+  orientation_element = vanillabtn:398246
+  x = 0
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=398270%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398270%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=398318%
+  orientation = element
+  orientation_element = vanillabtn:398270
+  x = 0
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=398318%
+  width = 306
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398318%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\boxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=398366%
+  orientation = element
+  orientation_element = vanillabtn:398342
+  x = 0
+  action = movebutton
+  y = 49
+}
+
+customization {
+  identifier = %id=398366%
+  width = 306
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=398366%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\boxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  identifier = %id=504270%
+  orientation = element
+  orientation_element = vanillabtn:398270
+  x = 156
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=504270%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504270%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  backgroundnormal = config\UtilityBelt\menubox.png
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config\UtilityBelt\smallboxhov.png
+  label = Bugs and Feedback
+  loopbackgroundanimations = true
+  x = 10
+  width = 150
+  actionid = 2199c8b0-0c50-461d-80cf-1f20fc0805421650279198827
+  action = addbutton
+  y = -32
+  backgroundnormal = config\UtilityBelt\menubox.png
+  value = https://github.com/nickesc/UtilityBelt/issues
+  height = 20
+}
+
